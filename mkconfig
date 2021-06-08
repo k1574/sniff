@@ -1,0 +1,5 @@
+<$MKINCDIR/config
+PROGNAME = sniff
+CFILES = main.c
+INCS = -I/$INCDIR
+
